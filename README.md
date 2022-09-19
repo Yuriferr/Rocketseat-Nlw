@@ -1,6 +1,5 @@
-https://img.shields.io/github/issues/Yuriferr/Rocketseat-Nlw
-
 # Projeto Nlw-Rocketseat
+<a href="https://github.com/Yuriferr/Rocketseat-Nlw/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Yuriferr/Rocketseat-Nlw"></a>
 
 NLW é um evento online e gratuito de programação na prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
