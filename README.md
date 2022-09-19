@@ -1,4 +1,5 @@
 <a href="https://github.com/Yuriferr/Rocketseat-Nlw/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Yuriferr/Rocketseat-Nlw"></a>
+<a href="https://github.com/Yuriferr/Rocketseat-Nlw/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Yuriferr/Rocketseat-Nlw"></a>
 
 # Projeto Nlw-Rocketseat
 
