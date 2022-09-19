@@ -17,6 +17,12 @@ O projeto foi desenvolvido do dia 11/09 ao dia 18/09, com aulas e desafios lanç
 
 ## Rodando o projeto
 
+Para os dois
+
+```bash
+  npm install
+```
+
 Para rodar o servidor
 
 ```bash
