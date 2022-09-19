@@ -1,3 +1,4 @@
+https://img.shields.io/github/issues/Yuriferr/Rocketseat-Nlw
 
 # Projeto Nlw-Rocketseat
 
