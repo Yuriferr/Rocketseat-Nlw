@@ -4,8 +4,6 @@
 
 NLW é um evento online e gratuito de programação na prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
-Foram 
-
 ## Demonstração
 
 <img src="https://live.staticflickr.com/65535/52370119754_ddfb710cc4_z.jpg"/> <img src="https://live.staticflickr.com/65535/52368869417_8e0070b190_z.jpg"/> 
